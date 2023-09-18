@@ -6,7 +6,7 @@ spring:
   datasource:
     druid:
       driver-class-name: org.postgresql.Driver
-      url: jdbc:postgresql://localhost:5432/shutakeout?currentSchema=public
+      url: jdbc:postgresql://localhost:5432/shutakeout
       username: postgres
       password: 123456a
 mybatis-plus:
